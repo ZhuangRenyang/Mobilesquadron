@@ -1,0 +1,22 @@
+{
+  "name": "mobilesquadron",
+  "version": "1.0.0",
+  "description": "机动战队and刀剑神域",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZhuangRenyang/Mobilesquadron.git"
+  },
+  "keywords": [
+    "live2d"
+  ],
+  "author": "zhuangrenyang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZhuangRenyang/Mobilesquadron/issues"
+  },
+  "homepage": "https://github.com/ZhuangRenyang/Mobilesquadron#readme"
+}
